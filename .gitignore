@@ -2,6 +2,7 @@
 /npm-debug.log*
 package-lock.json
 /build
+/public
 .idea
 /log
 /js
